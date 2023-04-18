@@ -1,6 +1,6 @@
 import pro1 from "../assets/ddbb.png";
 import pro2 from "../assets/everybody-eats.png";
-import pro3 from "../assets/placeholder.jpg";
+import pro3 from "../asset/freeschool.png";
 
 
 const ProjectCardData = [
@@ -20,9 +20,9 @@ const ProjectCardData = [
 
     {
         imgsrc: pro3,
-        title: "Coming soon...",
-        text: "",
-        view: "https://github.com/ovitale18"
+        title: "Free School",
+        text: "Sign up for Free School classes in Athens, GA.",
+        view: "https://free-school-706.herokuapp.com/free-school"
     },
 ];
 
